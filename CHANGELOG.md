@@ -51,5 +51,3 @@ All notable changes to the CSV Workflow Automation Tool are documented here.
 - Documentation improvements with consistent docstrings and portfolio-ready structure.
 - Special characters and alphanumeric mappings remain unaffected.  
 ➡️ [View v1.1.2 Release](https://github.com/roannelafuente/CSV-Workflow-Automation-v1.1.2)
-
-  ➡️ [View v1.1.2 Release](https://github.com/roannelafuente/CSV-Workflow-Automation-v1.1.2)
