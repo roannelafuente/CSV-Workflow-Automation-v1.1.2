@@ -54,8 +54,7 @@ All notable changes to the CSV Workflow Automation Tool are documented here.
   - Scrollable status box for improved log navigation.
   - Custom `sprout.ico` icon for professional presentation.
   - Developer credit and version label included in the interface.
-- Documentation improvements with consistent docstrings and portfolio-ready structure.
-- Special characters and alphanumeric mappings remain unaffected.  
+- Documentation improvements with consistent docstrings and portfolio-ready structure. 
 ➡️ [View v1.1.2 Release](https://github.com/roannelafuente/CSV-Workflow-Automation-v1.1.2)
 
 ---
